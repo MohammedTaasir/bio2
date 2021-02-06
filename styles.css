@@ -11,6 +11,9 @@ hr {
 
 h1{
   color: #ffd460;
+  font-style: normal;
+  font-family: Georgia, serif;
+  font-weight: normal;
 }
 
 p, li, td, label{
