@@ -36,5 +36,6 @@ img{
 h2{
   color:#14ffec;
   font-style: normal;
-  font-family: cursive;
+  font-family: monospace;
+  font-weight: bold;
 }
