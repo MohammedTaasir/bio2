@@ -1,0 +1,40 @@
+body {
+  background-color: #903749;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 20%;
+  border-width: 10px;
+  border-color: #ff2e63;
+}
+
+h1{
+  color: #ffd460;
+}
+
+p, li, td, label{
+  color: #eeeeee;
+  font-style: oblique;
+  font-family: monospace;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+th{
+  color:#a7ff83;
+  font-style: oblique;
+  font-family: monospace;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+img{
+  border-radius: 10% / 50%;
+}
+
+h2{
+  color:#14ffec;
+  font-style: normal;
+  font-family: cursive;
+}
